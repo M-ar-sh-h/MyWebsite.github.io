@@ -2,8 +2,6 @@ body {
   background-color: #a6e3e9;
   margin:0;
   text-align: center;
-
-
 }
 
 h1 {
@@ -26,7 +24,7 @@ h3 {
 }
 p {
   font-family: 'Mogra', cursive;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 2;
 }
 .top-container{
@@ -107,7 +105,7 @@ a:hover {
 }
 .contact-me {
   width: 40%;
-  margin: 40px auto 60px;
+  margin: 80px auto 80px;
 }
 .btn {
   background: #085f99;
